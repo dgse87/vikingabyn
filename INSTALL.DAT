@@ -1,0 +1,16 @@
+NAME    Vikingabyn (packad)
+INSTDIR \skol\vikis
+SRCDIR  \dummy \vikis
+SRCDIR  \skolpack\vikis \
+DSTDIR  \vikis #
+UNPACK  vikis1 #
+UNPACK  vikis2 #
+UNPACK  vikis3 #
+UNPACK  vikis4 #
+
+CMDLINE start
+STARTPROG VIKIS.EXE
+PROGVER 1.10
+
+DISCS 1
+FREE 1275392
